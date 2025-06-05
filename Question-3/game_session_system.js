@@ -29,9 +29,9 @@ class ChatGroup {
     }
 }
 
-const player1 = new Player("Alice", 5);
-const player2 = new Player("Bob", 5);
-const player3 = new Player("Charlie", 6);
+const player1 = new Player("Fana", 5);
+const player2 = new Player("Meron", 5);
+const player3 = new Player("Birhanu", 6);
 const group5 = new ChatGroup(5);
 const group6 = new ChatGroup(6);
 player1.joinChatGroup(group5);
